@@ -19,7 +19,7 @@ A Python project for scraping data from Strava club leaderboards using Selenium.
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/sergbondckua/strava_club_last_week_leaderboard.git
+    git clone https://github.com/DmitryTeplov182/strava-club-leatherboard-bot.git
     ```
 2. **Copy .env.template to .env and fill in the necessary data:**
    ```bash
