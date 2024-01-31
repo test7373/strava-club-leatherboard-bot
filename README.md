@@ -52,7 +52,7 @@ A Python project for scraping data from Strava club leaderboards using Selenium.
       ```
       Run bot
       ```bash
-      python main.py
+      python tg.py
       ```
 3. **Docker:**
    1.  Copy `.env_dist` to `envs` dir and fill in the necessary data.
